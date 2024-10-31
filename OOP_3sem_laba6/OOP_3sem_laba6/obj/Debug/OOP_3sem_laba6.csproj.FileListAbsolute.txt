@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\OOP_3sem_laba6\OOP_3sem_laba6\bin\Debug\OOP_3sem_laba6.exe.config
+C:\Users\user\source\repos\OOP_3sem_laba6\OOP_3sem_laba6\bin\Debug\OOP_3sem_laba6.exe
+C:\Users\user\source\repos\OOP_3sem_laba6\OOP_3sem_laba6\bin\Debug\OOP_3sem_laba6.pdb
+C:\Users\user\source\repos\OOP_3sem_laba6\OOP_3sem_laba6\obj\Debug\OOP_3sem_laba6.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\OOP_3sem_laba6\OOP_3sem_laba6\obj\Debug\OOP_3sem_laba6.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\OOP_3sem_laba6\OOP_3sem_laba6\obj\Debug\OOP_3sem_laba6.exe
+C:\Users\user\source\repos\OOP_3sem_laba6\OOP_3sem_laba6\obj\Debug\OOP_3sem_laba6.pdb

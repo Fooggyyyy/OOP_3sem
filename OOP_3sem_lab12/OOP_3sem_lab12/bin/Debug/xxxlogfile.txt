@@ -1,0 +1,6 @@
+[Действие: Создание файла] [Файл: example.txt] [Путь: C:\MyFiles\example.txt] [Дата/Время: 17.10.2024 19:58:22]
+[Действие: Удаление файла] [Файл: oldfile.txt] [Путь: C:\MyFiles\oldfile.txt] [Дата/Время: 17.10.2024 19:58:22]
+[Действие: Создание файла] [Файл: xxxlogfile.txt] [Путь: C:\\Users\\user\\source\\repos\\OOP_3sem_lab12\\OOP_3sem_lab12\\xxxlogfile.txt] [Дата/Время: 17.10.2024 20:03:41]
+[Действие: Запись в файл] [Файл: xxxlogfile.txt] [Путь: C:\\Users\\user\\source\\repos\\OOP_3sem_lab12\\OOP_3sem_lab12\\xxxlogfile.txt] [Дата/Время: 17.10.2024 20:03:41]
+[Действие: Создание файла] [Файл: xxxlogfile.txt] [Путь: C:\\Users\\user\\source\\repos\\OOP_3sem_lab12\\OOP_3sem_lab12\\xxxlogfile.txt] [Дата/Время: 17.10.2024 20:04:02]
+[Действие: Запись в файл] [Файл: xxxlogfile.txt] [Путь: C:\\Users\\user\\source\\repos\\OOP_3sem_lab12\\OOP_3sem_lab12\\xxxlogfile.txt] [Дата/Время: 17.10.2024 20:04:02]

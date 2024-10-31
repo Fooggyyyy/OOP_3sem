@@ -1,0 +1,142 @@
+﻿1. Что такое LINQ?
+LINQ (Language Integrated Query) — это набор технологий в .NET,
+который позволяет выполнять запросы к различным источникам данных (например, к массивам, коллекциям, базам данных, XML-файлам и другим).
+LINQ предоставляет единый синтаксис для выполнения операций выборки, фильтрации, сортировки и агрегации данных,
+используя как декларативный синтаксис (Query Syntax), так и метод синтаксиса (Method Syntax).
+
+ 2. В чем разница между отложенными операциями и не отложенными операциями LINQ to Object?
+- Отложенные операции (Deferred Execution) — это операции, которые не выполняются сразу при их определении.
+Вместо этого они выполняются только тогда, когда вы итерируете по результатам. Примеры: `Where`, `Select`, `Take`, и многие другие.
+
+- Не отложенные операции (Immediate Execution) — это операции, которые выполняются сразу после их вызова, и результат возвращается немедленно.
+Примеры: `ToList()`, `ToArray()`, `Count()`, `Sum()`, и т.д.
+
+ 3. Что такое лямбда-выражения?
+Лямбда-выражения — это сокращенный синтаксис для написания анонимных функций.
+Они позволяют передавать код как параметры в методы, такие как `Where` и `Select`.
+Лямбда-выражение может принимать параметры и возвращать значение. Например: 
+
+x => x > 5
+
+Здесь `x` — параметр, а `x > 5` — выражение, которое будет возвращено.
+
+ 4. Какие есть группы операций в LINQ to Object? Перечислите
+- Фильтрация: `Where`
+- Проекция: `Select`, `SelectMany`
+- Сортировка: `OrderBy`, `ThenBy`, `OrderByDescending`, `ThenByDescending`
+- Объединение: `Join`, `GroupJoin`
+- Агрегация: `Sum`, `Count`, `Average`, `Min`, `Max`
+- Группировка: `GroupBy`
+- Множества: `Distinct`, `Union`, `Except`, `Intersect`
+- Квантификация: `Any`, `All`, `Contains`
+- Разбиение: `Take`, `Skip`
+
+ 5. Как используется операция Where в LINQ to Object?
+`Where` используется для фильтрации элементов коллекции на основе заданного условия. Например:
+
+var filteredStudents = students.Where(s => s.Group == 101);
+
+Этот код вернет всех студентов из группы 101.
+
+ 6. Как используется операция Select?
+`Select` используется для проекции элементов коллекции в новый вид. Например:
+
+var studentNames = students.Select(s => s.Name);
+
+Этот код вернет список имен студентов.
+
+ 7. Как используются операции Take, Skip?
+- Take: выбирает первые `n` элементов из коллекции.
+  
+  var firstThree = students.Take(3);
+  
+- Skip: пропускает первые `n` элементов и возвращает оставшиеся.
+  
+  var skipFirstTwo = students.Skip(2);
+  
+
+ 8. Как используется операция Concat?
+`Concat` используется для объединения двух последовательностей в одну. Например:
+
+var combinedList = list1.Concat(list2);
+
+Этот код объединит два списка в один.
+
+ 9. Как используется операция OrderBy?
+`OrderBy` используется для сортировки элементов коллекции по возрастанию. Например:
+
+var sortedStudents = students.OrderBy(s => s.Name);
+
+Этот код отсортирует студентов по имени.
+
+ 10. Как используется операция Join?
+`Join` используется для объединения двух коллекций по общему ключу. Например:
+
+var studentCourses = students.Join(courses,
+    student => student.CourseId,
+    course => course.Id,
+    (student, course) => new { student.Name, CourseName = course.CourseName });
+
+
+ 11. Как используются операции Distinct, Union, Except и Intersect?
+- Distinct: удаляет дубликаты из коллекции.
+  
+  var uniqueNames = names.Distinct();
+  
+- Union: объединяет две коллекции и удаляет дубликаты.
+  
+  var unionList = list1.Union(list2);
+  
+- Except: возвращает элементы первой коллекции, которых нет во второй.
+  
+  var exceptList = list1.Except(list2);
+  
+- Intersect: возвращает элементы, которые есть в обеих коллекциях.
+  
+  var intersectList = list1.Intersect(list2);
+  
+
+ 12. Как используются операции First, Last, Any, All и Contains?
+- First: возвращает первый элемент последовательности.
+  
+  var firstStudent = students.First();
+  
+- Last: возвращает последний элемент последовательности.
+  
+  var lastStudent = students.Last();
+  
+- Any: проверяет, есть ли в коллекции хотя бы один элемент, соответствующий условию.
+  
+  bool hasStudent = students.Any(s => s.Group == 101);
+  
+- All: проверяет, все ли элементы коллекции соответствуют условию.
+  
+  bool allInGroup = students.All(s => s.Group == 101);
+  
+- Contains: проверяет, содержит ли коллекция заданный элемент.
+  
+  bool containsJohn = students.Contains(new Student { Name = "John" });
+  
+
+ 13. Как используются операции Count, Sum, Min и Max, Average?
+- Count: возвращает количество элементов в коллекции.
+  
+  int studentCount = students.Count();
+  
+- Sum: возвращает сумму значений в коллекции (например, для чисел).
+  
+  var totalGroups = students.Sum(s => s.Group);
+  
+- Min: возвращает минимальное значение в коллекции.
+  
+  var minGroup = students.Min(s => s.Group);
+  
+- Max: возвращает максимальное значение в коллекции.
+  
+  var maxGroup = students.Max(s => s.Group);
+  
+- Average: возвращает среднее значение в коллекции.
+  
+  var averageGroup = students.Average(s => s.Group);
+  
+

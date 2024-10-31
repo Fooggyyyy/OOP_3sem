@@ -1,0 +1,17 @@
+Имя сборки: OOP_3sem_laba11
+Есть ли статические конструкторы в классе Reflector: Да
+Метод: ClearFile
+Метод: GetAssemblyInfo
+Метод: HasStaticConstructor
+Метод: AllMethod_Field
+Метод: InterfaceCount
+Метод: Invoke
+Метод: Create
+Метод: Create
+Метод: Equals
+Метод: GetHashCode
+Метод: GetType
+Метод: ToString
+Поле: first
+Поле: second
+Класс Reflector реализует 0 интерфейса(ов).

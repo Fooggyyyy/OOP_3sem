@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\OOP_3sem_Laba4\OOP_3sem_Laba4\bin\Debug\OOP_3sem_Laba4.exe.config
+C:\Users\user\source\repos\OOP_3sem_Laba4\OOP_3sem_Laba4\bin\Debug\OOP_3sem_Laba4.exe
+C:\Users\user\source\repos\OOP_3sem_Laba4\OOP_3sem_Laba4\bin\Debug\OOP_3sem_Laba4.pdb
+C:\Users\user\source\repos\OOP_3sem_Laba4\OOP_3sem_Laba4\obj\Debug\OOP_3sem_Laba4.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\OOP_3sem_Laba4\OOP_3sem_Laba4\obj\Debug\OOP_3sem_Laba4.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\OOP_3sem_Laba4\OOP_3sem_Laba4\obj\Debug\OOP_3sem_Laba4.exe
+C:\Users\user\source\repos\OOP_3sem_Laba4\OOP_3sem_Laba4\obj\Debug\OOP_3sem_Laba4.pdb

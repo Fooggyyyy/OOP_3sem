@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Human xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>John</Name>
+  <Lastname>Doe</Lastname>
+  <Surname>Smith</Surname>
+  <Weight>80</Weight>
+  <Height>180</Height>
+  <Age>25</Age>
+</Human>

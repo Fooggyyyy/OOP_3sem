@@ -1,0 +1,773 @@
+[Действие: Создание файла:] [Файл: xxxlogfile.txt] [Путь: C:\\Users\\user\\source\\repos\\OOP_3sem_lab12\\OOP_3sem_lab12\\xxxlogfile.txt] [Дата/Время: 17.10.2024 20:44:59]
+[Действие: Чтение из файла:] [Файл: xxxlogfile.txt] [Путь: C:\\Users\\user\\source\\repos\\OOP_3sem_lab12\\OOP_3sem_lab12\\xxxlogfile.txt] [Дата/Время: 17.10.2024 20:44:59]
+[Действие: Поиск в файле:] [Файл: search_task1.txt] [Путь: C:\\Users\\user\\source\\repos\\OOP_3sem_lab12\\OOP_3sem_lab12\\xxxlogfile.txt] [Дата/Время: 17.10.2024 20:44:59]
+[Действие: Информация о диске:] [Файл: xxxlogfile] [Путь: C:\\Users\\user\\source\\repos\\OOP_3sem_lab12\\OOP_3sem_lab12\\xxxlogfile.txt] [Дата/Время: 17.10.2024 20:44:59]
+Диск: C:\
+  Тип диска: Fixed
+  Файловая система: NTFS
+  Объем диска: 196 GB
+  Свободно места: 34 GB
+  Метка тома: 
+
+Диск: D:\
+  Тип диска: Fixed
+  Файловая система: NTFS
+  Объем диска: 279 GB
+  Свободно места: 91 GB
+  Метка тома: DATA
+
+
+
+[Действие: Создание файла:] [Файл: xxxlogfile.txt] [Путь: C:\\Users\\user\\source\\repos\\OOP_3sem_lab12\\OOP_3sem_lab12\\xxxlogfile.txt] [Дата/Время: 17.10.2024 20:45:14]
+[Действие: Чтение из файла:] [Файл: xxxlogfile.txt] [Путь: C:\\Users\\user\\source\\repos\\OOP_3sem_lab12\\OOP_3sem_lab12\\xxxlogfile.txt] [Дата/Время: 17.10.2024 20:45:14]
+[Действие: Поиск в файле:] [Файл: search_task1.txt] [Путь: C:\\Users\\user\\source\\repos\\OOP_3sem_lab12\\OOP_3sem_lab12\\xxxlogfile.txt] [Дата/Время: 17.10.2024 20:45:14]
+[Действие: Информация о диске:] [Файл: xxxlogfile] [Путь: C:\\Users\\user\\source\\repos\\OOP_3sem_lab12\\OOP_3sem_lab12\\xxxlogfile.txt] [Дата/Время: 17.10.2024 20:45:14]
+Диск: C:\
+  Тип диска: Fixed
+  Файловая система: NTFS
+  Объем диска: 196 GB
+  Свободно места: 34 GB
+  Метка тома: 
+
+Диск: D:\
+  Тип диска: Fixed
+  Файловая система: NTFS
+  Объем диска: 279 GB
+  Свободно места: 91 GB
+  Метка тома: DATA
+
+
+
+[Действие: Создание файла:] [Файл: xxxlogfile.txt] [Путь: C:\\Users\\user\\source\\repos\\OOP_3sem_lab12\\OOP_3sem_lab12\\xxxlogfile.txt] [Дата/Время: 17.10.2024 20:49:20]
+[Действие: Чтение из файла:] [Файл: xxxlogfile.txt] [Путь: C:\\Users\\user\\source\\repos\\OOP_3sem_lab12\\OOP_3sem_lab12\\xxxlogfile.txt] [Дата/Время: 17.10.2024 20:49:20]
+[Действие: Поиск в файле:] [Файл: search_task1.txt] [Путь: C:\\Users\\user\\source\\repos\\OOP_3sem_lab12\\OOP_3sem_lab12\\xxxlogfile.txt] [Дата/Время: 17.10.2024 20:49:20]
+[Действие: Информация о диске:] [Файл: xxxlogfile] [Путь: C:\\Users\\user\\source\\repos\\OOP_3sem_lab12\\OOP_3sem_lab12\\xxxlogfile.txt] [Дата/Время: 17.10.2024 20:49:20]
+Диск: C:\
+  Тип диска: Fixed
+  Файловая система: NTFS
+  Объем диска: 196 GB
+  Свободно места: 34 GB
+  Метка тома: 
+
+Диск: D:\
+  Тип диска: Fixed
+  Файловая система: NTFS
+  Объем диска: 279 GB
+  Свободно места: 91 GB
+  Метка тома: DATA
+
+[Действие: Информация о файле:] [Файл: xxxlogfile] [Путь: C:\\Users\\user\\source\\repos\\OOP_3sem_lab12\\OOP_3sem_lab12\\xxxlogfile.txt] [Дата/Время: 17.10.2024 20:49:20]
+
+
+[Действие: Создание файла:] [Файл: xxxlogfile.txt] [Путь: C:\\Users\\user\\source\\repos\\OOP_3sem_lab12\\OOP_3sem_lab12\\xxxlogfile.txt] [Дата/Время: 17.10.2024 20:49:47]
+[Действие: Чтение из файла:] [Файл: xxxlogfile.txt] [Путь: C:\\Users\\user\\source\\repos\\OOP_3sem_lab12\\OOP_3sem_lab12\\xxxlogfile.txt] [Дата/Время: 17.10.2024 20:49:47]
+[Действие: Поиск в файле:] [Файл: search_task1.txt] [Путь: C:\\Users\\user\\source\\repos\\OOP_3sem_lab12\\OOP_3sem_lab12\\xxxlogfile.txt] [Дата/Время: 17.10.2024 20:49:47]
+[Действие: Информация о диске:] [Файл: xxxlogfile] [Путь: C:\\Users\\user\\source\\repos\\OOP_3sem_lab12\\OOP_3sem_lab12\\xxxlogfile.txt] [Дата/Время: 17.10.2024 20:49:47]
+Диск: C:\
+  Тип диска: Fixed
+  Файловая система: NTFS
+  Объем диска: 196 GB
+  Свободно места: 34 GB
+  Метка тома: 
+
+Диск: D:\
+  Тип диска: Fixed
+  Файловая система: NTFS
+  Объем диска: 279 GB
+  Свободно места: 91 GB
+  Метка тома: DATA
+
+[Действие: Информация о файле:] [Файл: xxxlogfile] [Путь: C:\\Users\\user\\source\\repos\\OOP_3sem_lab12\\OOP_3sem_lab12\\xxxlogfile.txt] [Дата/Время: 17.10.2024 20:49:47]
+Имя файла: xxxlogfile.txt
+Путь: C:\Users\user\source\repos\OOP_3sem_lab12\OOP_3sem_lab12\xxxlogfile.txt
+Размер: 5294 байт
+Расширение: .txt
+Дата создания: 17.10.2024 19:59:50
+Последнее изменение: 17.10.2024 20:49:47
+Атрибуты: Archive
+
+
+[Действие: Создание файла:] [Файл: xxxlogfile.txt] [Путь: C:\\Users\\user\\source\\repos\\OOP_3sem_lab12\\OOP_3sem_lab12\\xxxlogfile.txt] [Дата/Время: 21.10.2024 21:43:07]
+[Действие: Чтение из файла:] [Файл: xxxlogfile.txt] [Путь: C:\\Users\\user\\source\\repos\\OOP_3sem_lab12\\OOP_3sem_lab12\\xxxlogfile.txt] [Дата/Время: 21.10.2024 21:43:07]
+[Действие: Поиск в файле:] [Файл: search_task1.txt] [Путь: C:\\Users\\user\\source\\repos\\OOP_3sem_lab12\\OOP_3sem_lab12\\xxxlogfile.txt] [Дата/Время: 21.10.2024 21:43:07]
+[Действие: Информация о диске:] [Файл: xxxlogfile] [Путь: C:\\Users\\user\\source\\repos\\OOP_3sem_lab12\\OOP_3sem_lab12\\xxxlogfile.txt] [Дата/Время: 21.10.2024 21:43:07]
+Диск: C:\
+  Тип диска: Fixed
+  Файловая система: NTFS
+  Объем диска: 196 GB
+  Свободно места: 35 GB
+  Метка тома: 
+
+Диск: D:\
+  Тип диска: Fixed
+  Файловая система: NTFS
+  Объем диска: 279 GB
+  Свободно места: 91 GB
+  Метка тома: DATA
+
+[Действие: Информация о файле:] [Файл: xxxlogfile] [Путь: C:\\Users\\user\\source\\repos\\OOP_3sem_lab12\\OOP_3sem_lab12\\xxxlogfile.txt] [Дата/Время: 21.10.2024 21:43:07]
+Имя файла: xxxlogfile.txt
+Путь: C:\Users\user\source\repos\OOP_3sem_lab12\OOP_3sem_lab12\xxxlogfile.txt
+Размер: 7035 байт
+Расширение: .txt
+Дата создания: 17.10.2024 19:59:50
+Последнее изменение: 21.10.2024 21:43:07
+Атрибуты: Archive
+[Действие: Информация о директории:] [Файл: OOP_3sem_lab12] [Путь: C:\\Users\\user\\source\\repos\\OOP_3sem_lab12\\OOP_3sem_lab12\\xxxlogfile.txt] [Дата/Время: 21.10.2024 21:43:07]
+Количество файлов в директории C:\Users\user\source\repos\OOP_3sem_lab12: 1
+Время создания директории C:\Users\user\source\repos\OOP_3sem_lab12: 17.10.2024 19:54:52
+Количество поддиректорий в C:\Users\user\source\repos\OOP_3sem_lab12: 2
+Родительские директории для C:\Users\user\source\repos\OOP_3sem_lab12:
+C:\Users\user\source\repos
+C:\Users\user\source
+C:\Users\user
+C:\Users
+C:\
+
+
+[Действие: Создание файла:] [Файл: xxxlogfile.txt] [Путь: C:\\Users\\user\\source\\repos\\OOP_3sem_lab12\\OOP_3sem_lab12\\xxxlogfile.txt] [Дата/Время: 21.10.2024 21:44:47]
+[Действие: Чтение из файла:] [Файл: xxxlogfile.txt] [Путь: C:\\Users\\user\\source\\repos\\OOP_3sem_lab12\\OOP_3sem_lab12\\xxxlogfile.txt] [Дата/Время: 21.10.2024 21:44:47]
+[Действие: Поиск в файле:] [Файл: search_task1.txt] [Путь: C:\\Users\\user\\source\\repos\\OOP_3sem_lab12\\OOP_3sem_lab12\\xxxlogfile.txt] [Дата/Время: 21.10.2024 21:44:47]
+[Действие: Информация о диске:] [Файл: xxxlogfile] [Путь: C:\\Users\\user\\source\\repos\\OOP_3sem_lab12\\OOP_3sem_lab12\\xxxlogfile.txt] [Дата/Время: 21.10.2024 21:44:47]
+Диск: C:\
+  Тип диска: Fixed
+  Файловая система: NTFS
+  Объем диска: 196 GB
+  Свободно места: 35 GB
+  Метка тома: 
+
+Диск: D:\
+  Тип диска: Fixed
+  Файловая система: NTFS
+  Объем диска: 279 GB
+  Свободно места: 91 GB
+  Метка тома: DATA
+
+[Действие: Информация о файле:] [Файл: xxxlogfile] [Путь: C:\\Users\\user\\source\\repos\\OOP_3sem_lab12\\OOP_3sem_lab12\\xxxlogfile.txt] [Дата/Время: 21.10.2024 21:44:47]
+Имя файла: xxxlogfile.txt
+Путь: C:\Users\user\source\repos\OOP_3sem_lab12\OOP_3sem_lab12\xxxlogfile.txt
+Размер: 9495 байт
+Расширение: .txt
+Дата создания: 17.10.2024 19:59:50
+Последнее изменение: 21.10.2024 21:44:47
+Атрибуты: Archive
+[Действие: Информация о директории:] [Файл: OOP_3sem_lab12] [Путь: C:\\Users\\user\\source\\repos\\OOP_3sem_lab12\\OOP_3sem_lab12\\xxxlogfile.txt] [Дата/Время: 21.10.2024 21:44:47]
+Количество файлов в директории C:\Users\user\source\repos\OOP_3sem_lab12: 1
+Время создания директории C:\Users\user\source\repos\OOP_3sem_lab12: 17.10.2024 19:54:52
+Количество поддиректорий в C:\Users\user\source\repos\OOP_3sem_lab12: 2
+Родительские директории для C:\Users\user\source\repos\OOP_3sem_lab12:
+C:\Users\user\source\repos
+C:\Users\user\source
+C:\Users\user
+C:\Users
+C:\
+
+
+[Действие: Создание файла:] [Файл: xxxlogfile.txt] [Путь: C:\\Users\\user\\source\\repos\\OOP_3sem_lab12\\OOP_3sem_lab12\\xxxlogfile.txt] [Дата/Время: 21.10.2024 21:45:04]
+[Действие: Чтение из файла:] [Файл: xxxlogfile.txt] [Путь: C:\\Users\\user\\source\\repos\\OOP_3sem_lab12\\OOP_3sem_lab12\\xxxlogfile.txt] [Дата/Время: 21.10.2024 21:45:04]
+[Действие: Поиск в файле:] [Файл: search_task1.txt] [Путь: C:\\Users\\user\\source\\repos\\OOP_3sem_lab12\\OOP_3sem_lab12\\xxxlogfile.txt] [Дата/Время: 21.10.2024 21:45:04]
+[Действие: Информация о диске:] [Файл: xxxlogfile] [Путь: C:\\Users\\user\\source\\repos\\OOP_3sem_lab12\\OOP_3sem_lab12\\xxxlogfile.txt] [Дата/Время: 21.10.2024 21:45:04]
+Диск: C:\
+  Тип диска: Fixed
+  Файловая система: NTFS
+  Объем диска: 196 GB
+  Свободно места: 35 GB
+  Метка тома: 
+
+Диск: D:\
+  Тип диска: Fixed
+  Файловая система: NTFS
+  Объем диска: 279 GB
+  Свободно места: 91 GB
+  Метка тома: DATA
+
+[Действие: Информация о файле:] [Файл: xxxlogfile] [Путь: C:\\Users\\user\\source\\repos\\OOP_3sem_lab12\\OOP_3sem_lab12\\xxxlogfile.txt] [Дата/Время: 21.10.2024 21:45:04]
+Имя файла: xxxlogfile.txt
+Путь: C:\Users\user\source\repos\OOP_3sem_lab12\OOP_3sem_lab12\xxxlogfile.txt
+Размер: 11955 байт
+Расширение: .txt
+Дата создания: 17.10.2024 19:59:50
+Последнее изменение: 21.10.2024 21:45:04
+Атрибуты: Archive
+[Действие: Информация о директории:] [Файл: OOP_3sem_lab12] [Путь: C:\\Users\\user\\source\\repos\\OOP_3sem_lab12\\OOP_3sem_lab12\\xxxlogfile.txt] [Дата/Время: 21.10.2024 21:45:04]
+Количество файлов в директории C:\Users\user\source\repos\OOP_3sem_lab12: 1
+Время создания директории C:\Users\user\source\repos\OOP_3sem_lab12: 17.10.2024 19:54:52
+Количество поддиректорий в C:\Users\user\source\repos\OOP_3sem_lab12: 2
+Родительские директории для C:\Users\user\source\repos\OOP_3sem_lab12:
+C:\Users\user\source\repos
+C:\Users\user\source
+C:\Users\user
+C:\Users
+C:\
+
+
+[Действие: Создание файла:] [Файл: xxxlogfile.txt] [Путь: C:\\Users\\user\\source\\repos\\OOP_3sem_lab12\\OOP_3sem_lab12\\xxxlogfile.txt] [Дата/Время: 21.10.2024 21:45:56]
+[Действие: Чтение из файла:] [Файл: xxxlogfile.txt] [Путь: C:\\Users\\user\\source\\repos\\OOP_3sem_lab12\\OOP_3sem_lab12\\xxxlogfile.txt] [Дата/Время: 21.10.2024 21:45:56]
+[Действие: Поиск в файле:] [Файл: search_task1.txt] [Путь: C:\\Users\\user\\source\\repos\\OOP_3sem_lab12\\OOP_3sem_lab12\\xxxlogfile.txt] [Дата/Время: 21.10.2024 21:45:56]
+[Действие: Информация о диске:] [Файл: xxxlogfile] [Путь: C:\\Users\\user\\source\\repos\\OOP_3sem_lab12\\OOP_3sem_lab12\\xxxlogfile.txt] [Дата/Время: 21.10.2024 21:45:56]
+Диск: C:\
+  Тип диска: Fixed
+  Файловая система: NTFS
+  Объем диска: 196 GB
+  Свободно места: 35 GB
+  Метка тома: 
+
+Диск: D:\
+  Тип диска: Fixed
+  Файловая система: NTFS
+  Объем диска: 279 GB
+  Свободно места: 91 GB
+  Метка тома: DATA
+
+[Действие: Информация о файле:] [Файл: xxxlogfile] [Путь: C:\\Users\\user\\source\\repos\\OOP_3sem_lab12\\OOP_3sem_lab12\\xxxlogfile.txt] [Дата/Время: 21.10.2024 21:45:56]
+Имя файла: xxxlogfile.txt
+Путь: C:\Users\user\source\repos\OOP_3sem_lab12\OOP_3sem_lab12\xxxlogfile.txt
+Размер: 14416 байт
+Расширение: .txt
+Дата создания: 17.10.2024 19:59:50
+Последнее изменение: 21.10.2024 21:45:56
+Атрибуты: Archive
+[Действие: Информация о директории:] [Файл: OOP_3sem_lab12] [Путь: C:\\Users\\user\\source\\repos\\OOP_3sem_lab12\\OOP_3sem_lab12\\xxxlogfile.txt] [Дата/Время: 21.10.2024 21:45:56]
+Количество файлов в директории C:\Users\user\source\repos\OOP_3sem_lab12: 1
+Время создания директории C:\Users\user\source\repos\OOP_3sem_lab12: 17.10.2024 19:54:52
+Количество поддиректорий в C:\Users\user\source\repos\OOP_3sem_lab12: 2
+Родительские директории для C:\Users\user\source\repos\OOP_3sem_lab12:
+C:\Users\user\source\repos
+C:\Users\user\source
+C:\Users\user
+C:\Users
+C:\
+
+
+[Действие: Создание файла:] [Файл: xxxlogfile.txt] [Путь: C:\\Users\\user\\source\\repos\\OOP_3sem_lab12\\OOP_3sem_lab12\\xxxlogfile.txt] [Дата/Время: 21.10.2024 21:46:50]
+[Действие: Чтение из файла:] [Файл: xxxlogfile.txt] [Путь: C:\\Users\\user\\source\\repos\\OOP_3sem_lab12\\OOP_3sem_lab12\\xxxlogfile.txt] [Дата/Время: 21.10.2024 21:46:50]
+[Действие: Поиск в файле:] [Файл: search_task1.txt] [Путь: C:\\Users\\user\\source\\repos\\OOP_3sem_lab12\\OOP_3sem_lab12\\xxxlogfile.txt] [Дата/Время: 21.10.2024 21:46:50]
+[Действие: Информация о диске:] [Файл: xxxlogfile] [Путь: C:\\Users\\user\\source\\repos\\OOP_3sem_lab12\\OOP_3sem_lab12\\xxxlogfile.txt] [Дата/Время: 21.10.2024 21:46:50]
+Диск: C:\
+  Тип диска: Fixed
+  Файловая система: NTFS
+  Объем диска: 196 GB
+  Свободно места: 35 GB
+  Метка тома: 
+
+Диск: D:\
+  Тип диска: Fixed
+  Файловая система: NTFS
+  Объем диска: 279 GB
+  Свободно места: 91 GB
+  Метка тома: DATA
+
+[Действие: Информация о файле:] [Файл: xxxlogfile] [Путь: C:\\Users\\user\\source\\repos\\OOP_3sem_lab12\\OOP_3sem_lab12\\xxxlogfile.txt] [Дата/Время: 21.10.2024 21:46:50]
+Имя файла: xxxlogfile.txt
+Путь: C:\Users\user\source\repos\OOP_3sem_lab12\OOP_3sem_lab12\xxxlogfile.txt
+Размер: 16877 байт
+Расширение: .txt
+Дата создания: 17.10.2024 19:59:50
+Последнее изменение: 21.10.2024 21:46:50
+Атрибуты: Archive
+[Действие: Информация о директории:] [Файл: OOP_3sem_lab12] [Путь: C:\\Users\\user\\source\\repos\\OOP_3sem_lab12\\OOP_3sem_lab12\\xxxlogfile.txt] [Дата/Время: 21.10.2024 21:46:50]
+Количество файлов в директории C:\Users\user\source\repos\OOP_3sem_lab12: 1
+Время создания директории C:\Users\user\source\repos\OOP_3sem_lab12: 17.10.2024 19:54:52
+Количество поддиректорий в C:\Users\user\source\repos\OOP_3sem_lab12: 2
+Родительские директории для C:\Users\user\source\repos\OOP_3sem_lab12:
+C:\Users\user\source\repos
+C:\Users\user\source
+C:\Users\user
+C:\Users
+C:\
+
+
+[Действие: Создание файла:] [Файл: xxxlogfile.txt] [Путь: C:\\Users\\user\\source\\repos\\OOP_3sem_lab12\\OOP_3sem_lab12\\xxxlogfile.txt] [Дата/Время: 21.10.2024 21:49:13]
+[Действие: Чтение из файла:] [Файл: xxxlogfile.txt] [Путь: C:\\Users\\user\\source\\repos\\OOP_3sem_lab12\\OOP_3sem_lab12\\xxxlogfile.txt] [Дата/Время: 21.10.2024 21:49:13]
+[Действие: Поиск в файле:] [Файл: search_task1.txt] [Путь: C:\\Users\\user\\source\\repos\\OOP_3sem_lab12\\OOP_3sem_lab12\\xxxlogfile.txt] [Дата/Время: 21.10.2024 21:49:13]
+[Действие: Информация о диске:] [Файл: xxxlogfile] [Путь: C:\\Users\\user\\source\\repos\\OOP_3sem_lab12\\OOP_3sem_lab12\\xxxlogfile.txt] [Дата/Время: 21.10.2024 21:49:13]
+Диск: C:\
+  Тип диска: Fixed
+  Файловая система: NTFS
+  Объем диска: 196 GB
+  Свободно места: 35 GB
+  Метка тома: 
+
+Диск: D:\
+  Тип диска: Fixed
+  Файловая система: NTFS
+  Объем диска: 279 GB
+  Свободно места: 91 GB
+  Метка тома: DATA
+
+[Действие: Информация о файле:] [Файл: xxxlogfile] [Путь: C:\\Users\\user\\source\\repos\\OOP_3sem_lab12\\OOP_3sem_lab12\\xxxlogfile.txt] [Дата/Время: 21.10.2024 21:49:13]
+Имя файла: xxxlogfile.txt
+Путь: C:\Users\user\source\repos\OOP_3sem_lab12\OOP_3sem_lab12\xxxlogfile.txt
+Размер: 19338 байт
+Расширение: .txt
+Дата создания: 17.10.2024 19:59:50
+Последнее изменение: 21.10.2024 21:49:13
+Атрибуты: Archive
+[Действие: Информация о директории:] [Файл: OOP_3sem_lab12] [Путь: C:\\Users\\user\\source\\repos\\OOP_3sem_lab12\\OOP_3sem_lab12\\xxxlogfile.txt] [Дата/Время: 21.10.2024 21:49:13]
+Количество файлов в директории C:\Users\user\source\repos\OOP_3sem_lab12: 1
+Время создания директории C:\Users\user\source\repos\OOP_3sem_lab12: 17.10.2024 19:54:52
+Количество поддиректорий в C:\Users\user\source\repos\OOP_3sem_lab12: 2
+Родительские директории для C:\Users\user\source\repos\OOP_3sem_lab12:
+C:\Users\user\source\repos
+C:\Users\user\source
+C:\Users\user
+C:\Users
+C:\
+
+
+[Действие: Создание файла:] [Файл: xxxlogfile.txt] [Путь: C:\\Users\\user\\source\\repos\\OOP_3sem_lab12\\OOP_3sem_lab12\\xxxlogfile.txt] [Дата/Время: 21.10.2024 21:49:33]
+[Действие: Чтение из файла:] [Файл: xxxlogfile.txt] [Путь: C:\\Users\\user\\source\\repos\\OOP_3sem_lab12\\OOP_3sem_lab12\\xxxlogfile.txt] [Дата/Время: 21.10.2024 21:49:33]
+[Действие: Поиск в файле:] [Файл: search_task1.txt] [Путь: C:\\Users\\user\\source\\repos\\OOP_3sem_lab12\\OOP_3sem_lab12\\xxxlogfile.txt] [Дата/Время: 21.10.2024 21:49:33]
+[Действие: Информация о диске:] [Файл: xxxlogfile] [Путь: C:\\Users\\user\\source\\repos\\OOP_3sem_lab12\\OOP_3sem_lab12\\xxxlogfile.txt] [Дата/Время: 21.10.2024 21:49:33]
+Диск: C:\
+  Тип диска: Fixed
+  Файловая система: NTFS
+  Объем диска: 196 GB
+  Свободно места: 35 GB
+  Метка тома: 
+
+Диск: D:\
+  Тип диска: Fixed
+  Файловая система: NTFS
+  Объем диска: 279 GB
+  Свободно места: 91 GB
+  Метка тома: DATA
+
+[Действие: Информация о файле:] [Файл: xxxlogfile] [Путь: C:\\Users\\user\\source\\repos\\OOP_3sem_lab12\\OOP_3sem_lab12\\xxxlogfile.txt] [Дата/Время: 21.10.2024 21:49:33]
+Имя файла: xxxlogfile.txt
+Путь: C:\Users\user\source\repos\OOP_3sem_lab12\OOP_3sem_lab12\xxxlogfile.txt
+Размер: 21799 байт
+Расширение: .txt
+Дата создания: 17.10.2024 19:59:50
+Последнее изменение: 21.10.2024 21:49:33
+Атрибуты: Archive
+[Действие: Информация о директории:] [Файл: OOP_3sem_lab12] [Путь: C:\\Users\\user\\source\\repos\\OOP_3sem_lab12\\OOP_3sem_lab12\\xxxlogfile.txt] [Дата/Время: 21.10.2024 21:49:33]
+Количество файлов в директории C:\Users\user\source\repos\OOP_3sem_lab12: 1
+Время создания директории C:\Users\user\source\repos\OOP_3sem_lab12: 17.10.2024 19:54:52
+Количество поддиректорий в C:\Users\user\source\repos\OOP_3sem_lab12: 2
+Родительские директории для C:\Users\user\source\repos\OOP_3sem_lab12:
+C:\Users\user\source\repos
+C:\Users\user\source
+C:\Users\user
+C:\Users
+C:\
+
+
+[Действие: Создание файла:] [Файл: xxxlogfile.txt] [Путь: C:\\Users\\user\\source\\repos\\OOP_3sem_lab12\\OOP_3sem_lab12\\xxxlogfile.txt] [Дата/Время: 21.10.2024 21:49:52]
+[Действие: Чтение из файла:] [Файл: xxxlogfile.txt] [Путь: C:\\Users\\user\\source\\repos\\OOP_3sem_lab12\\OOP_3sem_lab12\\xxxlogfile.txt] [Дата/Время: 21.10.2024 21:49:52]
+[Действие: Поиск в файле:] [Файл: search_task1.txt] [Путь: C:\\Users\\user\\source\\repos\\OOP_3sem_lab12\\OOP_3sem_lab12\\xxxlogfile.txt] [Дата/Время: 21.10.2024 21:49:52]
+[Действие: Информация о диске:] [Файл: xxxlogfile] [Путь: C:\\Users\\user\\source\\repos\\OOP_3sem_lab12\\OOP_3sem_lab12\\xxxlogfile.txt] [Дата/Время: 21.10.2024 21:49:52]
+Диск: C:\
+  Тип диска: Fixed
+  Файловая система: NTFS
+  Объем диска: 196 GB
+  Свободно места: 35 GB
+  Метка тома: 
+
+Диск: D:\
+  Тип диска: Fixed
+  Файловая система: NTFS
+  Объем диска: 279 GB
+  Свободно места: 91 GB
+  Метка тома: DATA
+
+[Действие: Информация о файле:] [Файл: xxxlogfile] [Путь: C:\\Users\\user\\source\\repos\\OOP_3sem_lab12\\OOP_3sem_lab12\\xxxlogfile.txt] [Дата/Время: 21.10.2024 21:49:52]
+Имя файла: xxxlogfile.txt
+Путь: C:\Users\user\source\repos\OOP_3sem_lab12\OOP_3sem_lab12\xxxlogfile.txt
+Размер: 24260 байт
+Расширение: .txt
+Дата создания: 17.10.2024 19:59:50
+Последнее изменение: 21.10.2024 21:49:52
+Атрибуты: Archive
+[Действие: Информация о директории:] [Файл: OOP_3sem_lab12] [Путь: C:\\Users\\user\\source\\repos\\OOP_3sem_lab12\\OOP_3sem_lab12\\xxxlogfile.txt] [Дата/Время: 21.10.2024 21:49:52]
+Количество файлов в директории C:\Users\user\source\repos\OOP_3sem_lab12: 1
+Время создания директории C:\Users\user\source\repos\OOP_3sem_lab12: 17.10.2024 19:54:52
+Количество поддиректорий в C:\Users\user\source\repos\OOP_3sem_lab12: 2
+Родительские директории для C:\Users\user\source\repos\OOP_3sem_lab12:
+C:\Users\user\source\repos
+C:\Users\user\source
+C:\Users\user
+C:\Users
+C:\
+
+
+[Действие: Создание файла:] [Файл: xxxlogfile.txt] [Путь: C:\\Users\\user\\source\\repos\\OOP_3sem_lab12\\OOP_3sem_lab12\\xxxlogfile.txt] [Дата/Время: 21.10.2024 21:50:02]
+[Действие: Чтение из файла:] [Файл: xxxlogfile.txt] [Путь: C:\\Users\\user\\source\\repos\\OOP_3sem_lab12\\OOP_3sem_lab12\\xxxlogfile.txt] [Дата/Время: 21.10.2024 21:50:02]
+[Действие: Поиск в файле:] [Файл: search_task1.txt] [Путь: C:\\Users\\user\\source\\repos\\OOP_3sem_lab12\\OOP_3sem_lab12\\xxxlogfile.txt] [Дата/Время: 21.10.2024 21:50:02]
+[Действие: Информация о диске:] [Файл: xxxlogfile] [Путь: C:\\Users\\user\\source\\repos\\OOP_3sem_lab12\\OOP_3sem_lab12\\xxxlogfile.txt] [Дата/Время: 21.10.2024 21:50:02]
+Диск: C:\
+  Тип диска: Fixed
+  Файловая система: NTFS
+  Объем диска: 196 GB
+  Свободно места: 35 GB
+  Метка тома: 
+
+Диск: D:\
+  Тип диска: Fixed
+  Файловая система: NTFS
+  Объем диска: 279 GB
+  Свободно места: 91 GB
+  Метка тома: DATA
+
+[Действие: Информация о файле:] [Файл: xxxlogfile] [Путь: C:\\Users\\user\\source\\repos\\OOP_3sem_lab12\\OOP_3sem_lab12\\xxxlogfile.txt] [Дата/Время: 21.10.2024 21:50:02]
+Имя файла: xxxlogfile.txt
+Путь: C:\Users\user\source\repos\OOP_3sem_lab12\OOP_3sem_lab12\xxxlogfile.txt
+Размер: 26721 байт
+Расширение: .txt
+Дата создания: 17.10.2024 19:59:50
+Последнее изменение: 21.10.2024 21:50:02
+Атрибуты: Archive
+[Действие: Информация о директории:] [Файл: OOP_3sem_lab12] [Путь: C:\\Users\\user\\source\\repos\\OOP_3sem_lab12\\OOP_3sem_lab12\\xxxlogfile.txt] [Дата/Время: 21.10.2024 21:50:02]
+Количество файлов в директории C:\Users\user\source\repos\OOP_3sem_lab12: 1
+Время создания директории C:\Users\user\source\repos\OOP_3sem_lab12: 17.10.2024 19:54:52
+Количество поддиректорий в C:\Users\user\source\repos\OOP_3sem_lab12: 2
+Родительские директории для C:\Users\user\source\repos\OOP_3sem_lab12:
+C:\Users\user\source\repos
+C:\Users\user\source
+C:\Users\user
+C:\Users
+C:\
+
+
+[Действие: Создание файла:] [Файл: xxxlogfile.txt] [Путь: C:\\Users\\user\\source\\repos\\OOP_3sem_lab12\\OOP_3sem_lab12\\xxxlogfile.txt] [Дата/Время: 21.10.2024 21:50:19]
+[Действие: Чтение из файла:] [Файл: xxxlogfile.txt] [Путь: C:\\Users\\user\\source\\repos\\OOP_3sem_lab12\\OOP_3sem_lab12\\xxxlogfile.txt] [Дата/Время: 21.10.2024 21:50:19]
+[Действие: Поиск в файле:] [Файл: search_task1.txt] [Путь: C:\\Users\\user\\source\\repos\\OOP_3sem_lab12\\OOP_3sem_lab12\\xxxlogfile.txt] [Дата/Время: 21.10.2024 21:50:19]
+[Действие: Информация о диске:] [Файл: xxxlogfile] [Путь: C:\\Users\\user\\source\\repos\\OOP_3sem_lab12\\OOP_3sem_lab12\\xxxlogfile.txt] [Дата/Время: 21.10.2024 21:50:19]
+Диск: C:\
+  Тип диска: Fixed
+  Файловая система: NTFS
+  Объем диска: 196 GB
+  Свободно места: 35 GB
+  Метка тома: 
+
+Диск: D:\
+  Тип диска: Fixed
+  Файловая система: NTFS
+  Объем диска: 279 GB
+  Свободно места: 91 GB
+  Метка тома: DATA
+
+[Действие: Информация о файле:] [Файл: xxxlogfile] [Путь: C:\\Users\\user\\source\\repos\\OOP_3sem_lab12\\OOP_3sem_lab12\\xxxlogfile.txt] [Дата/Время: 21.10.2024 21:50:19]
+Имя файла: xxxlogfile.txt
+Путь: C:\Users\user\source\repos\OOP_3sem_lab12\OOP_3sem_lab12\xxxlogfile.txt
+Размер: 29182 байт
+Расширение: .txt
+Дата создания: 17.10.2024 19:59:50
+Последнее изменение: 21.10.2024 21:50:19
+Атрибуты: Archive
+[Действие: Информация о директории:] [Файл: OOP_3sem_lab12] [Путь: C:\\Users\\user\\source\\repos\\OOP_3sem_lab12\\OOP_3sem_lab12\\xxxlogfile.txt] [Дата/Время: 21.10.2024 21:50:19]
+Количество файлов в директории C:\Users\user\source\repos\OOP_3sem_lab12: 1
+Время создания директории C:\Users\user\source\repos\OOP_3sem_lab12: 17.10.2024 19:54:52
+Количество поддиректорий в C:\Users\user\source\repos\OOP_3sem_lab12: 2
+Родительские директории для C:\Users\user\source\repos\OOP_3sem_lab12:
+C:\Users\user\source\repos
+C:\Users\user\source
+C:\Users\user
+C:\Users
+C:\
+
+
+[Действие: Создание файла:] [Файл: xxxlogfile.txt] [Путь: C:\\Users\\user\\source\\repos\\OOP_3sem_lab12\\OOP_3sem_lab12\\xxxlogfile.txt] [Дата/Время: 21.10.2024 21:50:32]
+[Действие: Чтение из файла:] [Файл: xxxlogfile.txt] [Путь: C:\\Users\\user\\source\\repos\\OOP_3sem_lab12\\OOP_3sem_lab12\\xxxlogfile.txt] [Дата/Время: 21.10.2024 21:50:32]
+[Действие: Поиск в файле:] [Файл: search_task1.txt] [Путь: C:\\Users\\user\\source\\repos\\OOP_3sem_lab12\\OOP_3sem_lab12\\xxxlogfile.txt] [Дата/Время: 21.10.2024 21:50:32]
+[Действие: Информация о диске:] [Файл: xxxlogfile] [Путь: C:\\Users\\user\\source\\repos\\OOP_3sem_lab12\\OOP_3sem_lab12\\xxxlogfile.txt] [Дата/Время: 21.10.2024 21:50:32]
+Диск: C:\
+  Тип диска: Fixed
+  Файловая система: NTFS
+  Объем диска: 196 GB
+  Свободно места: 35 GB
+  Метка тома: 
+
+Диск: D:\
+  Тип диска: Fixed
+  Файловая система: NTFS
+  Объем диска: 279 GB
+  Свободно места: 91 GB
+  Метка тома: DATA
+
+[Действие: Информация о файле:] [Файл: xxxlogfile] [Путь: C:\\Users\\user\\source\\repos\\OOP_3sem_lab12\\OOP_3sem_lab12\\xxxlogfile.txt] [Дата/Время: 21.10.2024 21:50:32]
+Имя файла: xxxlogfile.txt
+Путь: C:\Users\user\source\repos\OOP_3sem_lab12\OOP_3sem_lab12\xxxlogfile.txt
+Размер: 31643 байт
+Расширение: .txt
+Дата создания: 17.10.2024 19:59:50
+Последнее изменение: 21.10.2024 21:50:32
+Атрибуты: Archive
+[Действие: Информация о директории:] [Файл: OOP_3sem_lab12] [Путь: C:\\Users\\user\\source\\repos\\OOP_3sem_lab12\\OOP_3sem_lab12\\xxxlogfile.txt] [Дата/Время: 21.10.2024 21:50:32]
+Количество файлов в директории C:\Users\user\source\repos\OOP_3sem_lab12: 1
+Время создания директории C:\Users\user\source\repos\OOP_3sem_lab12: 17.10.2024 19:54:52
+Количество поддиректорий в C:\Users\user\source\repos\OOP_3sem_lab12: 2
+Родительские директории для C:\Users\user\source\repos\OOP_3sem_lab12:
+C:\Users\user\source\repos
+C:\Users\user\source
+C:\Users\user
+C:\Users
+C:\
+
+
+[Действие: Создание файла:] [Файл: xxxlogfile.txt] [Путь: C:\\Users\\user\\source\\repos\\OOP_3sem_lab12\\OOP_3sem_lab12\\xxxlogfile.txt] [Дата/Время: 21.10.2024 21:50:46]
+[Действие: Чтение из файла:] [Файл: xxxlogfile.txt] [Путь: C:\\Users\\user\\source\\repos\\OOP_3sem_lab12\\OOP_3sem_lab12\\xxxlogfile.txt] [Дата/Время: 21.10.2024 21:50:46]
+[Действие: Поиск в файле:] [Файл: search_task1.txt] [Путь: C:\\Users\\user\\source\\repos\\OOP_3sem_lab12\\OOP_3sem_lab12\\xxxlogfile.txt] [Дата/Время: 21.10.2024 21:50:46]
+[Действие: Информация о диске:] [Файл: xxxlogfile] [Путь: C:\\Users\\user\\source\\repos\\OOP_3sem_lab12\\OOP_3sem_lab12\\xxxlogfile.txt] [Дата/Время: 21.10.2024 21:50:46]
+Диск: C:\
+  Тип диска: Fixed
+  Файловая система: NTFS
+  Объем диска: 196 GB
+  Свободно места: 35 GB
+  Метка тома: 
+
+Диск: D:\
+  Тип диска: Fixed
+  Файловая система: NTFS
+  Объем диска: 279 GB
+  Свободно места: 91 GB
+  Метка тома: DATA
+
+[Действие: Информация о файле:] [Файл: xxxlogfile] [Путь: C:\\Users\\user\\source\\repos\\OOP_3sem_lab12\\OOP_3sem_lab12\\xxxlogfile.txt] [Дата/Время: 21.10.2024 21:50:46]
+Имя файла: xxxlogfile.txt
+Путь: C:\Users\user\source\repos\OOP_3sem_lab12\OOP_3sem_lab12\xxxlogfile.txt
+Размер: 34104 байт
+Расширение: .txt
+Дата создания: 17.10.2024 19:59:50
+Последнее изменение: 21.10.2024 21:50:46
+Атрибуты: Archive
+[Действие: Информация о директории:] [Файл: OOP_3sem_lab12] [Путь: C:\\Users\\user\\source\\repos\\OOP_3sem_lab12\\OOP_3sem_lab12\\xxxlogfile.txt] [Дата/Время: 21.10.2024 21:50:46]
+Количество файлов в директории C:\Users\user\source\repos\OOP_3sem_lab12: 1
+Время создания директории C:\Users\user\source\repos\OOP_3sem_lab12: 17.10.2024 19:54:52
+Количество поддиректорий в C:\Users\user\source\repos\OOP_3sem_lab12: 2
+Родительские директории для C:\Users\user\source\repos\OOP_3sem_lab12:
+C:\Users\user\source\repos
+C:\Users\user\source
+C:\Users\user
+C:\Users
+C:\
+
+
+[Действие: Создание файла:] [Файл: xxxlogfile.txt] [Путь: C:\\Users\\user\\source\\repos\\OOP_3sem_lab12\\OOP_3sem_lab12\\xxxlogfile.txt] [Дата/Время: 21.10.2024 21:50:53]
+[Действие: Чтение из файла:] [Файл: xxxlogfile.txt] [Путь: C:\\Users\\user\\source\\repos\\OOP_3sem_lab12\\OOP_3sem_lab12\\xxxlogfile.txt] [Дата/Время: 21.10.2024 21:50:53]
+[Действие: Поиск в файле:] [Файл: search_task1.txt] [Путь: C:\\Users\\user\\source\\repos\\OOP_3sem_lab12\\OOP_3sem_lab12\\xxxlogfile.txt] [Дата/Время: 21.10.2024 21:50:53]
+[Действие: Информация о диске:] [Файл: xxxlogfile] [Путь: C:\\Users\\user\\source\\repos\\OOP_3sem_lab12\\OOP_3sem_lab12\\xxxlogfile.txt] [Дата/Время: 21.10.2024 21:50:53]
+Диск: C:\
+  Тип диска: Fixed
+  Файловая система: NTFS
+  Объем диска: 196 GB
+  Свободно места: 35 GB
+  Метка тома: 
+
+Диск: D:\
+  Тип диска: Fixed
+  Файловая система: NTFS
+  Объем диска: 279 GB
+  Свободно места: 91 GB
+  Метка тома: DATA
+
+[Действие: Информация о файле:] [Файл: xxxlogfile] [Путь: C:\\Users\\user\\source\\repos\\OOP_3sem_lab12\\OOP_3sem_lab12\\xxxlogfile.txt] [Дата/Время: 21.10.2024 21:50:53]
+Имя файла: xxxlogfile.txt
+Путь: C:\Users\user\source\repos\OOP_3sem_lab12\OOP_3sem_lab12\xxxlogfile.txt
+Размер: 36565 байт
+Расширение: .txt
+Дата создания: 17.10.2024 19:59:50
+Последнее изменение: 21.10.2024 21:50:53
+Атрибуты: Archive
+[Действие: Информация о директории:] [Файл: OOP_3sem_lab12] [Путь: C:\\Users\\user\\source\\repos\\OOP_3sem_lab12\\OOP_3sem_lab12\\xxxlogfile.txt] [Дата/Время: 21.10.2024 21:50:53]
+Количество файлов в директории C:\Users\user\source\repos\OOP_3sem_lab12: 1
+Время создания директории C:\Users\user\source\repos\OOP_3sem_lab12: 17.10.2024 19:54:52
+Количество поддиректорий в C:\Users\user\source\repos\OOP_3sem_lab12: 2
+Родительские директории для C:\Users\user\source\repos\OOP_3sem_lab12:
+C:\Users\user\source\repos
+C:\Users\user\source
+C:\Users\user
+C:\Users
+C:\
+
+
+[Действие: Создание файла:] [Файл: xxxlogfile.txt] [Путь: C:\\Users\\user\\source\\repos\\OOP_3sem_lab12\\OOP_3sem_lab12\\xxxlogfile.txt] [Дата/Время: 23.10.2024 16:01:24]
+[Действие: Чтение из файла:] [Файл: xxxlogfile.txt] [Путь: C:\\Users\\user\\source\\repos\\OOP_3sem_lab12\\OOP_3sem_lab12\\xxxlogfile.txt] [Дата/Время: 23.10.2024 16:01:24]
+[Действие: Поиск в файле:] [Файл: search_task1.txt] [Путь: C:\\Users\\user\\source\\repos\\OOP_3sem_lab12\\OOP_3sem_lab12\\xxxlogfile.txt] [Дата/Время: 23.10.2024 16:01:24]
+[Действие: Информация о диске:] [Файл: xxxlogfile] [Путь: C:\\Users\\user\\source\\repos\\OOP_3sem_lab12\\OOP_3sem_lab12\\xxxlogfile.txt] [Дата/Время: 23.10.2024 16:01:24]
+Диск: C:\
+  Тип диска: Fixed
+  Файловая система: NTFS
+  Объем диска: 196 GB
+  Свободно места: 35 GB
+  Метка тома: 
+
+Диск: D:\
+  Тип диска: Fixed
+  Файловая система: NTFS
+  Объем диска: 279 GB
+  Свободно места: 90 GB
+  Метка тома: DATA
+
+[Действие: Информация о файле:] [Файл: xxxlogfile] [Путь: C:\\Users\\user\\source\\repos\\OOP_3sem_lab12\\OOP_3sem_lab12\\xxxlogfile.txt] [Дата/Время: 23.10.2024 16:01:24]
+Имя файла: xxxlogfile.txt
+Путь: C:\Users\user\source\repos\OOP_3sem_lab12\OOP_3sem_lab12\xxxlogfile.txt
+Размер: 39026 байт
+Расширение: .txt
+Дата создания: 17.10.2024 19:59:50
+Последнее изменение: 23.10.2024 16:01:24
+Атрибуты: Archive
+[Действие: Информация о директории:] [Файл: OOP_3sem_lab12] [Путь: C:\\Users\\user\\source\\repos\\OOP_3sem_lab12\\OOP_3sem_lab12\\xxxlogfile.txt] [Дата/Время: 23.10.2024 16:01:24]
+Количество файлов в директории C:\Users\user\source\repos\OOP_3sem_lab12: 1
+Время создания директории C:\Users\user\source\repos\OOP_3sem_lab12: 17.10.2024 19:54:52
+Количество поддиректорий в C:\Users\user\source\repos\OOP_3sem_lab12: 2
+Родительские директории для C:\Users\user\source\repos\OOP_3sem_lab12:
+C:\Users\user\source\repos
+C:\Users\user\source
+C:\Users\user
+C:\Users
+C:\
+
+
+[Действие: Создание файла:] [Файл: xxxlogfile.txt] [Путь: C:\\Users\\user\\source\\repos\\OOP_3sem_lab12\\OOP_3sem_lab12\\xxxlogfile.txt] [Дата/Время: 23.10.2024 16:01:26]
+[Действие: Чтение из файла:] [Файл: xxxlogfile.txt] [Путь: C:\\Users\\user\\source\\repos\\OOP_3sem_lab12\\OOP_3sem_lab12\\xxxlogfile.txt] [Дата/Время: 23.10.2024 16:01:26]
+[Действие: Поиск в файле:] [Файл: search_task1.txt] [Путь: C:\\Users\\user\\source\\repos\\OOP_3sem_lab12\\OOP_3sem_lab12\\xxxlogfile.txt] [Дата/Время: 23.10.2024 16:01:26]
+[Действие: Информация о диске:] [Файл: xxxlogfile] [Путь: C:\\Users\\user\\source\\repos\\OOP_3sem_lab12\\OOP_3sem_lab12\\xxxlogfile.txt] [Дата/Время: 23.10.2024 16:01:26]
+Диск: C:\
+  Тип диска: Fixed
+  Файловая система: NTFS
+  Объем диска: 196 GB
+  Свободно места: 35 GB
+  Метка тома: 
+
+Диск: D:\
+  Тип диска: Fixed
+  Файловая система: NTFS
+  Объем диска: 279 GB
+  Свободно места: 90 GB
+  Метка тома: DATA
+
+[Действие: Информация о файле:] [Файл: xxxlogfile] [Путь: C:\\Users\\user\\source\\repos\\OOP_3sem_lab12\\OOP_3sem_lab12\\xxxlogfile.txt] [Дата/Время: 23.10.2024 16:01:26]
+Имя файла: xxxlogfile.txt
+Путь: C:\Users\user\source\repos\OOP_3sem_lab12\OOP_3sem_lab12\xxxlogfile.txt
+Размер: 41487 байт
+Расширение: .txt
+Дата создания: 17.10.2024 19:59:50
+Последнее изменение: 23.10.2024 16:01:26
+Атрибуты: Archive
+[Действие: Информация о директории:] [Файл: OOP_3sem_lab12] [Путь: C:\\Users\\user\\source\\repos\\OOP_3sem_lab12\\OOP_3sem_lab12\\xxxlogfile.txt] [Дата/Время: 23.10.2024 16:01:26]
+Количество файлов в директории C:\Users\user\source\repos\OOP_3sem_lab12: 1
+Время создания директории C:\Users\user\source\repos\OOP_3sem_lab12: 17.10.2024 19:54:52
+Количество поддиректорий в C:\Users\user\source\repos\OOP_3sem_lab12: 2
+Родительские директории для C:\Users\user\source\repos\OOP_3sem_lab12:
+C:\Users\user\source\repos
+C:\Users\user\source
+C:\Users\user
+C:\Users
+C:\
+
+
+[Действие: Создание файла:] [Файл: xxxlogfile.txt] [Путь: C:\\Users\\user\\source\\repos\\OOP_3sem_lab12\\OOP_3sem_lab12\\xxxlogfile.txt] [Дата/Время: 23.10.2024 16:01:27]
+[Действие: Чтение из файла:] [Файл: xxxlogfile.txt] [Путь: C:\\Users\\user\\source\\repos\\OOP_3sem_lab12\\OOP_3sem_lab12\\xxxlogfile.txt] [Дата/Время: 23.10.2024 16:01:27]
+[Действие: Поиск в файле:] [Файл: search_task1.txt] [Путь: C:\\Users\\user\\source\\repos\\OOP_3sem_lab12\\OOP_3sem_lab12\\xxxlogfile.txt] [Дата/Время: 23.10.2024 16:01:27]
+[Действие: Информация о диске:] [Файл: xxxlogfile] [Путь: C:\\Users\\user\\source\\repos\\OOP_3sem_lab12\\OOP_3sem_lab12\\xxxlogfile.txt] [Дата/Время: 23.10.2024 16:01:27]
+Диск: C:\
+  Тип диска: Fixed
+  Файловая система: NTFS
+  Объем диска: 196 GB
+  Свободно места: 35 GB
+  Метка тома: 
+
+Диск: D:\
+  Тип диска: Fixed
+  Файловая система: NTFS
+  Объем диска: 279 GB
+  Свободно места: 90 GB
+  Метка тома: DATA
+
+[Действие: Информация о файле:] [Файл: xxxlogfile] [Путь: C:\\Users\\user\\source\\repos\\OOP_3sem_lab12\\OOP_3sem_lab12\\xxxlogfile.txt] [Дата/Время: 23.10.2024 16:01:27]
+Имя файла: xxxlogfile.txt
+Путь: C:\Users\user\source\repos\OOP_3sem_lab12\OOP_3sem_lab12\xxxlogfile.txt
+Размер: 43948 байт
+Расширение: .txt
+Дата создания: 17.10.2024 19:59:50
+Последнее изменение: 23.10.2024 16:01:27
+Атрибуты: Archive
+[Действие: Информация о директории:] [Файл: OOP_3sem_lab12] [Путь: C:\\Users\\user\\source\\repos\\OOP_3sem_lab12\\OOP_3sem_lab12\\xxxlogfile.txt] [Дата/Время: 23.10.2024 16:01:27]
+Количество файлов в директории C:\Users\user\source\repos\OOP_3sem_lab12: 1
+Время создания директории C:\Users\user\source\repos\OOP_3sem_lab12: 17.10.2024 19:54:52
+Количество поддиректорий в C:\Users\user\source\repos\OOP_3sem_lab12: 2
+Родительские директории для C:\Users\user\source\repos\OOP_3sem_lab12:
+C:\Users\user\source\repos
+C:\Users\user\source
+C:\Users\user
+C:\Users
+C:\
+
+
+[Действие: Создание файла:] [Файл: xxxlogfile.txt] [Путь: C:\\Users\\user\\source\\repos\\OOP_3sem_lab12\\OOP_3sem_lab12\\xxxlogfile.txt] [Дата/Время: 23.10.2024 16:01:31]
+[Действие: Чтение из файла:] [Файл: xxxlogfile.txt] [Путь: C:\\Users\\user\\source\\repos\\OOP_3sem_lab12\\OOP_3sem_lab12\\xxxlogfile.txt] [Дата/Время: 23.10.2024 16:01:31]
+[Действие: Поиск в файле:] [Файл: search_task1.txt] [Путь: C:\\Users\\user\\source\\repos\\OOP_3sem_lab12\\OOP_3sem_lab12\\xxxlogfile.txt] [Дата/Время: 23.10.2024 16:01:31]
+[Действие: Информация о диске:] [Файл: xxxlogfile] [Путь: C:\\Users\\user\\source\\repos\\OOP_3sem_lab12\\OOP_3sem_lab12\\xxxlogfile.txt] [Дата/Время: 23.10.2024 16:01:31]
+Диск: C:\
+  Тип диска: Fixed
+  Файловая система: NTFS
+  Объем диска: 196 GB
+  Свободно места: 35 GB
+  Метка тома: 
+
+Диск: D:\
+  Тип диска: Fixed
+  Файловая система: NTFS
+  Объем диска: 279 GB
+  Свободно места: 90 GB
+  Метка тома: DATA
+
+[Действие: Информация о файле:] [Файл: xxxlogfile] [Путь: C:\\Users\\user\\source\\repos\\OOP_3sem_lab12\\OOP_3sem_lab12\\xxxlogfile.txt] [Дата/Время: 23.10.2024 16:01:31]
+Имя файла: xxxlogfile.txt
+Путь: C:\Users\user\source\repos\OOP_3sem_lab12\OOP_3sem_lab12\xxxlogfile.txt
+Размер: 46409 байт
+Расширение: .txt
+Дата создания: 17.10.2024 19:59:50
+Последнее изменение: 23.10.2024 16:01:31
+Атрибуты: Archive
+[Действие: Информация о директории:] [Файл: OOP_3sem_lab12] [Путь: C:\\Users\\user\\source\\repos\\OOP_3sem_lab12\\OOP_3sem_lab12\\xxxlogfile.txt] [Дата/Время: 23.10.2024 16:01:31]
+Количество файлов в директории C:\Users\user\source\repos\OOP_3sem_lab12: 1
+Время создания директории C:\Users\user\source\repos\OOP_3sem_lab12: 17.10.2024 19:54:52
+Количество поддиректорий в C:\Users\user\source\repos\OOP_3sem_lab12: 2
+Родительские директории для C:\Users\user\source\repos\OOP_3sem_lab12:
+C:\Users\user\source\repos
+C:\Users\user\source
+C:\Users\user
+C:\Users
+C:\
+
+
+[Действие: Создание файла:] [Файл: xxxlogfile.txt] [Путь: C:\\Users\\user\\source\\repos\\OOP_3sem_lab12\\OOP_3sem_lab12\\xxxlogfile.txt] [Дата/Время: 30.10.2024 18:28:56]
+[Действие: Чтение из файла:] [Файл: xxxlogfile.txt] [Путь: C:\\Users\\user\\source\\repos\\OOP_3sem_lab12\\OOP_3sem_lab12\\xxxlogfile.txt] [Дата/Время: 30.10.2024 18:28:56]
+[Действие: Поиск в файле:] [Файл: search_task1.txt] [Путь: C:\\Users\\user\\source\\repos\\OOP_3sem_lab12\\OOP_3sem_lab12\\xxxlogfile.txt] [Дата/Время: 30.10.2024 18:28:56]
+[Действие: Информация о диске:] [Файл: xxxlogfile] [Путь: C:\\Users\\user\\source\\repos\\OOP_3sem_lab12\\OOP_3sem_lab12\\xxxlogfile.txt] [Дата/Время: 30.10.2024 18:28:56]
+Диск: C:\
+  Тип диска: Fixed
+  Файловая система: NTFS
+  Объем диска: 196 GB
+  Свободно места: 38 GB
+  Метка тома: 
+
+Диск: D:\
+  Тип диска: Fixed
+  Файловая система: NTFS
+  Объем диска: 279 GB
+  Свободно места: 90 GB
+  Метка тома: DATA
+
+[Действие: Информация о файле:] [Файл: xxxlogfile] [Путь: C:\\Users\\user\\source\\repos\\OOP_3sem_lab12\\OOP_3sem_lab12\\xxxlogfile.txt] [Дата/Время: 30.10.2024 18:28:56]
+Имя файла: xxxlogfile.txt
+Путь: C:\Users\user\source\repos\OOP_3sem_lab12\OOP_3sem_lab12\xxxlogfile.txt
+Размер: 48870 байт
+Расширение: .txt
+Дата создания: 17.10.2024 19:59:50
+Последнее изменение: 30.10.2024 18:28:56
+Атрибуты: Archive
+[Действие: Информация о директории:] [Файл: OOP_3sem_lab12] [Путь: C:\\Users\\user\\source\\repos\\OOP_3sem_lab12\\OOP_3sem_lab12\\xxxlogfile.txt] [Дата/Время: 30.10.2024 18:28:56]
+Количество файлов в директории C:\Users\user\source\repos\OOP_3sem_lab12: 1
+Время создания директории C:\Users\user\source\repos\OOP_3sem_lab12: 17.10.2024 19:54:52
+Количество поддиректорий в C:\Users\user\source\repos\OOP_3sem_lab12: 2
+Родительские директории для C:\Users\user\source\repos\OOP_3sem_lab12:
+C:\Users\user\source\repos
+C:\Users\user\source
+C:\Users\user
+C:\Users
+C:\
+
+

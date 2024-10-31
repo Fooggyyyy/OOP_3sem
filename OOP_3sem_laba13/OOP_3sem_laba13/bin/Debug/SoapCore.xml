@@ -1,0 +1,391 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>SoapCore</name>
+    </assembly>
+    <members>
+        <member name="T:SoapCore.DefaultFaultExceptionTransformer`1">
+            <summary>
+            The default implementation of the fault provider when an unexpected exception occurs. This can be replaced or
+            extended by registering your own IFaultExceptionTransformer in the service collection on startup.
+            </summary>
+            <typeparam name="T_MESSAGE">The message type.</typeparam>
+        </member>
+        <member name="F:SoapCore.Extensibility.AuthorizeOperationMessageProcessor._pathTypes">
+            <summary>
+            A dictionary that has the path of the endpoint as Key and the corresponding type as the Value. Similar to using the UseSoapEndpoint extension function.
+            </summary>
+        </member>
+        <member name="F:SoapCore.Extensibility.AuthorizeOperationMessageProcessor._generateSoapActionWithoutContractName">
+            <summary>
+            Whether to generate the soapAction without the contract name. This is also specified in the SoapOptions.
+            </summary>
+        </member>
+        <member name="M:SoapCore.Extensibility.AuthorizeOperationMessageProcessor.#ctor(System.Collections.Generic.Dictionary{System.String,System.Type},System.Boolean)">
+            <summary>
+            Initializes a new instance of the <see cref="T:SoapCore.Extensibility.AuthorizeOperationMessageProcessor"/> class.
+            </summary>
+            <param name="pathAndTypes">A dictionary that has the path of the endpoint as Key and the corresponding type as Value. Similar to using the UseSoapEndpoint extension function.</param>
+            <param name="generateSoapActionWithoutContractName">Whether to generate the soapAction without the contract name. Default is false.</param>
+        </member>
+        <member name="T:SoapCore.Extensibility.IFaultExceptionTransformer">
+            <summary>
+            Allows for applications to define their own fault message type
+            </summary>
+        </member>
+        <member name="M:SoapCore.Extensibility.IFaultExceptionTransformer.ProvideFault(System.Exception,System.ServiceModel.Channels.MessageVersion,System.ServiceModel.Channels.Message,System.Xml.XmlNamespaceManager)">
+             <summary>
+             Transforms a provided exception to a formatted SOAP Message.
+            
+             If porting an existing application that uses FaultException CreateMessageFault(),
+             you will need to format it by creating an instance of MessageFaultBodyWriter
+             and passing that to Message.CreateMessage
+             </summary>
+             <param name="exception">Exception to transform</param>
+             <param name="messageVersion">SOAP message version</param>
+             <param name="requestMessage">SOAP requestMessage</param>
+             <param name="xmlNamespaceManager">Namespace manager</param>
+             <returns>Fully formatted SOAP Message</returns>
+             <seealso cref="T:SoapCore.MessageFaultBodyWriter"/>
+        </member>
+        <member name="T:SoapCore.Extensibility.IServiceOperationTuner">
+            <summary>
+            Interface for tuning each operation call
+            </summary>
+        </member>
+        <member name="M:SoapCore.Extensibility.IServiceOperationTuner.Tune(Microsoft.AspNetCore.Http.HttpContext,System.Object,SoapCore.ServiceModel.OperationDescription)">
+            <summary>
+            Tune operation call.
+            Use this method if it is needed to do some extra configs for operation call.
+            For example if you need to get some data from http header for some of operations.
+            </summary>
+            <param name="httpContext">Current http context</param>
+            <param name="serviceInstance">Service instance</param>
+            <param name="operation">Operation description</param>
+        </member>
+        <member name="M:SoapCore.FaultBodyWriter.ExtractFaultDetail(System.Exception)">
+            <summary>
+            Helper to extract object of a detailed fault.
+            </summary>
+            <param name="exception">
+            The exception that caused the failure.
+            </param>
+            <returns>
+            Returns instance of T if the exception (or its InnerExceptions) is of type FaultException{T}.
+            otherwise returns null
+            </returns>
+        </member>
+        <member name="T:SoapCore.MessageFaultBodyWriter">
+            <summary>
+            BodyWriter implementation that formats MessageFault messages (from FaultException)
+            </summary>
+        </member>
+        <member name="M:SoapCore.Meta.BodyWriterExtensions.HasShouldSerializeMethod(System.Reflection.MemberInfo,SoapCore.Meta.TypeToBuild)">
+            <summary>
+            Checks if the parent has a ShouldSerialize*() method defined for a specific member.
+            </summary>
+            <param name="member">The member to check</param>
+            <param name="parent">Parent of the member</param>
+            <returns>True if a ShouldSerialize*() method exists</returns>
+        </member>
+        <member name="P:SoapCore.Meta.MetaFromFile.CurrentWebService">
+            <summary>
+            Gets or sets the CurrentWebService
+            </summary>
+        </member>
+        <member name="P:SoapCore.Meta.MetaFromFile.CurrentWebServer">
+            <summary>
+            Gets or sets the currentWebServer
+            </summary>
+        </member>
+        <member name="P:SoapCore.Meta.MetaFromFile.XsdFolder">
+            <summary>
+            Gets or sets reads and returns the XSDFolder appsetting key form web.config
+            </summary>
+        </member>
+        <member name="P:SoapCore.Meta.MetaFromFile.WSDLFolder">
+            <summary>
+            Gets or sets the WSDLFolder appsetting key from web.config
+            </summary>
+        </member>
+        <member name="P:SoapCore.Meta.MetaFromFile.ServerUrl">
+            <summary>
+            Gets or sets the XSDURL appsetting key from web.config
+            </summary>
+        </member>
+        <member name="T:SoapCore.ReflectionExtensions">
+            <summary>Extensions to <see cref="T:System.Type"/>.</summary>
+        </member>
+        <member name="M:SoapCore.ReflectionExtensions.GetGenericMethod(System.Type,System.String,System.Type[])">
+            <summary>Searches for the public method with the specified name and generic arguments.</summary>
+            <param name="type">The current <see cref="T:System.Type"/>.</param>
+            <param name="name">The string containing the name of the public generic method to get.</param>
+            <param name="typeArguments">
+            An array of types to be substituted for the type parameters of the generic method definition.
+            </param>
+            <exception cref="T:System.Reflection.AmbiguousMatchException">More than one suitable method is found.</exception>
+            <exception cref="T:System.ArgumentNullException"><paramref name="name"/> is <c>null</c>.</exception>
+            <returns>
+            A <see cref="T:System.Reflection.MethodInfo"/> object representing the public constructed method formed by substituting the elements of <paramref name="typeArguments"/> for the type parameters.-or- <c>null</c>.
+            </returns>
+        </member>
+        <member name="M:SoapCore.ReflectionExtensions.GetPropertyOrFieldMembers(System.Type)">
+            <summary>
+            Gets the field or property members of the specific type.
+            </summary>
+            <param name="type">The type to look for field or property members for</param>
+            <returns>An enumerable containing members which are fields or properties</returns>
+        </member>
+        <member name="M:SoapCore.ReflectionExtensions.GetPropertyOrFieldType(System.Reflection.MemberInfo)">
+            <summary>
+            Gets the field or property type of a member. Returns null if the member is neither a field or
+            a property member
+            </summary>
+            <param name="memberInfo">The member to get the field or property type</param>
+            <returns>The return type of the member, null if it could not be determined</returns>
+        </member>
+        <member name="P:SoapCore.SoapCoreOptions.Path">
+            <summary>
+            Gets or sets the Path of the Service
+            </summary>
+        </member>
+        <member name="P:SoapCore.SoapCoreOptions.EncoderOptions">
+            <summary>
+            Gets or sets encoders
+            </summary>
+        </member>
+        <member name="P:SoapCore.SoapCoreOptions.SoapSerializer">
+            <summary>
+            Gets or sets a value indicating the kind of serializer
+            <para>Defaults to <see cref="F:SoapCore.SoapSerializer.DataContractSerializer"/></para>
+            </summary>
+        </member>
+        <member name="P:SoapCore.SoapCoreOptions.CaseInsensitivePath">
+            <summary>
+            Gets or sets a value indicating whether Path is case-sensitive
+            <para>Defaults to false</para>
+            </summary>
+        </member>
+        <member name="P:SoapCore.SoapCoreOptions.SoapModelBounder">
+            <summary>
+            Gets or sets a value indicating the ModelBounder
+            <para>Defaults to null</para>
+            </summary>
+        </member>
+        <member name="P:SoapCore.SoapCoreOptions.Binding">
+            <summary>
+            Gets or sets a value indicating the binding to use
+            <para>Defaults to null</para>
+            </summary>
+        </member>
+        <member name="P:SoapCore.SoapCoreOptions.UseBasicAuthentication">
+            <summary>
+            Gets or sets a value whether to use basic authentication
+            <para>Defaults to false</para>
+            </summary>
+        </member>
+        <member name="P:SoapCore.SoapCoreOptions.HttpGetEnabled">
+            <summary>
+            Gets or sets a value indicating whether publication of service metadata on HTTP GET request is activated
+            <para>Defaults to true</para>
+            </summary>
+        </member>
+        <member name="P:SoapCore.SoapCoreOptions.HttpsGetEnabled">
+            <summary>
+            Gets or sets a value indicating whether publication of service metadata on HTTPS GET request is activated
+            <para>Defaults to true</para>
+            </summary>
+        </member>
+        <member name="P:SoapCore.SoapCoreOptions.HttpPostEnabled">
+            <summary>
+            Gets or sets a value indicating whether invocation by posting formdata on HTTP is activated
+            <para>Defaults to true</para>
+            </summary>
+        </member>
+        <member name="P:SoapCore.SoapCoreOptions.HttpsPostEnabled">
+            <summary>
+            Gets or sets a value indicating whether invocation by posting formdata on HTTP is activated
+            <para>Defaults to true</para>
+            </summary>
+        </member>
+        <member name="P:SoapCore.SoapCoreOptions.BufferThreshold">
+            <summary>
+            The maximum size in bytes of the in-memory <see cref="T:System.Buffers.ArrayPool`1"/> used to buffer the
+            stream. Larger request bodies are written to disk.
+            </summary>
+        </member>
+        <member name="P:SoapCore.SoapCoreOptions.BufferLimit">
+            <summary>
+            The maximum size in bytes of the request body. An attempt to read beyond this limit will cause an
+            <see cref="T:System.IO.IOException"/>.
+            </summary>
+        </member>
+        <member name="P:SoapCore.SoapCoreOptions.OmitXmlDeclaration">
+            <summary>
+            Gets or sets a value indicating whether to omit the Xml declaration (&lt;?xml version="1.0" encoding="utf-8"?&gt;) in responses
+            <para>Defaults to true</para>
+            </summary>
+        </member>
+        <member name="P:SoapCore.SoapCoreOptions.StandAloneAttribute">
+            <summary>
+            Gets or sets a value indicating wheter to add the stand alone attribute in the XML declaration
+            <para>Defaults to false</para>
+            </summary>
+        </member>
+        <member name="P:SoapCore.SoapCoreOptions.IndentXml">
+            <summary>
+            Gets or sets a value indicating whether to indent the Xml in responses
+            <para>Defaults to true</para>
+            </summary>
+        </member>
+        <member name="P:SoapCore.SoapCoreOptions.IndentWsdl">
+            <summary>
+            Gets or sets a value indicating whether to indent the generated WSDL.
+            <para>Defaults to the value of <see cref="P:SoapCore.SoapCoreOptions.IndentXml"/></para>
+            </summary>
+        </member>
+        <member name="P:SoapCore.SoapCoreOptions.CheckXmlCharacters">
+            <summary>
+            Gets or sets a value indicating whether to check to make sure that the XmlOutput doesn't contain invalid characters
+            <para>Defaults to true</para>
+            </summary>
+        </member>
+        <member name="P:SoapCore.SoapCoreOptions.UseMicrosoftGuid">
+            <summary>
+            Add Microsoft Guid schema to wsdl
+            </summary>
+        </member>
+        <member name="P:SoapCore.SoapCoreOptions.XmlNamespacePrefixOverrides">
+            <summary>
+            Gets or sets an collection of Xml Namespaces to override the default prefix for.
+            </summary>
+        </member>
+        <member name="P:SoapCore.SoapCoreOptions.SerializerIdentifier">
+            <summary>
+            Get or sets a value indicating the use of custom serializer, use for if multiple custom serializer used to services
+            </summary>
+        </member>
+        <member name="P:SoapCore.SoapCoreOptions.AdditionalEnvelopeXmlnsAttributes">
+            <summary>
+            Sets additional namespace declaration attributes in envelope
+            </summary>
+        </member>
+        <member name="P:SoapCore.SoapCoreOptions.GenerateSoapActionWithoutContractName">
+            <summary>
+            By default, the soapAction that is generated if not explicitely specified is
+            {namespace}/{contractName}/{methodName}. If set to true, the service name will
+            be omitted, so that the soapAction will be {namespace}/{methodName}.
+            </summary>
+        </member>
+        <member name="P:SoapCore.SoapCoreOptions.NormalizeNewLines">
+            <summary>
+            Gets or sets a value indicating whether newlines in the SOAP XML responses
+            should be normalized to the system's default newline character (CRLF on Windows).
+            Default is true.
+            </summary>
+        </member>
+        <member name="M:SoapCore.SoapEndpointMiddleware`1.CreateErrorResponseMessage(System.Exception,System.Int32,System.IServiceProvider,System.ServiceModel.Channels.Message,SoapCore.MessageEncoder.SoapMessageEncoder,Microsoft.AspNetCore.Http.HttpContext)">
+            <summary>
+            Helper message to write an error response message in case of an exception.
+            </summary>
+            <param name="exception">
+            The exception that caused the failure.
+            </param>
+            <param name="statusCode">
+            The HTTP status code that shall be returned to the caller.
+            </param>
+            <param name="serviceProvider">
+            The DI container.
+            </param>
+            <param name="requestMessage">
+            The Message for the incoming request
+            </param>
+            <param name="messageEncoder">
+            Message encoder of incoming request
+            </param>
+            <param name="httpContext">
+            The HTTP context that received the response message.
+            </param>
+            <returns>
+            Returns the constructed message (which is implicitly written to the response
+            and therefore must not be handled by the caller).
+            </returns>
+        </member>
+        <member name="P:SoapCore.SoapOptions.HttpGetEnabled">
+            <summary>
+            Gets or sets a value indicating whether publication of service metadata on HTTP GET request, and invocation of service operation by GET, is activated
+            <para>Defaults to true</para>
+            </summary>
+        </member>
+        <member name="P:SoapCore.SoapOptions.HttpsGetEnabled">
+            <summary>
+            Gets or sets a value indicating whether publication of service metadata on HTTPS GET request, and invocation of service operation by GET, is activated
+            <para>Defaults to true</para>
+            </summary>
+        </member>
+        <member name="P:SoapCore.SoapOptions.HttpPostEnabled">
+            <summary>
+            Gets or sets a value indicating whether invocation by posting formdata on HTTP is activated
+            <para>Defaults to true</para>
+            </summary>
+        </member>
+        <member name="P:SoapCore.SoapOptions.HttpsPostEnabled">
+            <summary>
+            Gets or sets a value indicating whether invocation by posting formdata on HTTP is activated
+            <para>Defaults to true</para>
+            </summary>
+        </member>
+        <member name="P:SoapCore.SoapOptions.CheckXmlCharacters">
+            <summary>
+            Gets or sets a value indicating whether to check to make sure that the XmlOutput doesn't contain invalid characters
+            <para>Defaults to true</para>
+            </summary>
+        </member>
+        <member name="F:SoapCore.SoapSerializer.XmlSerializer">
+            <summary>
+            Client created from wsdl via Connected Services - Add Service Reference (see https://stackoverflow.com/a/2468182)
+            </summary>
+        </member>
+        <member name="F:SoapCore.SoapSerializer.DataContractSerializer">
+            <summary>
+            Client created from interface via <see cref="T:System.ServiceModel.ChannelFactory" />
+            </summary>
+        </member>
+        <member name="T:SoapCore.TrailingServicePathTuner">
+            <summary>
+            This tuner truncates the incoming http request to the last path-part. ie. /DynamicPath/Service.svc becomes /Service.svc
+            Register this tuner in ConfigureServices: services.TryAddSingleton&lt;TrailingServicePathTuner&gt;();
+            </summary>
+        </member>
+        <member name="T:SoapCore.XmlSerializerExtensions">
+            <summary>Extensions to <see cref="T:System.Xml.Serialization.XmlSerializer"/>.</summary>
+        </member>
+        <member name="M:SoapCore.XmlSerializerExtensions.DeserializeArray``1(System.Xml.Serialization.XmlSerializer,System.String,System.String,System.Xml.XmlReader)">
+            <summary>
+            Deserializes the XML document contained by the specified <see cref="T:System.Xml.XmlReader"/>.
+            </summary>
+            <typeparam name="T"> The type of the object that this <see cref="T:System.Xml.Serialization.XmlSerializer"/> can serialize.</typeparam>
+            <param name="serializer">The <see cref="T:System.Xml.Serialization.XmlSerializer"/>.</param>
+            <param name="localname">The string to match against the LocalName property of the element found.</param>
+            <param name="ns">The string to match against the NamespaceURI property of the element found.</param>
+            <param name="xmlReader">The System.xml.XmlReader that contains the XML document to deserialize.</param>
+            <returns>The objects being deserialized.</returns>
+            <exception cref="T:System.InvalidOperationException">
+            An error occurred during deserialization. The original exception is available
+            using the <see cref="P:System.Exception.InnerException"/> property.
+            </exception>
+        </member>
+        <member name="M:SoapCore.XmlSerializerExtensions.SerializeArray(System.Xml.Serialization.XmlSerializer,System.Xml.XmlWriter,System.Object[])">
+            <summary>
+            Serializes the specified objects and writes the XML document to a file using the specified <see cref="T:System.Xml.XmlWriter"/>.
+            </summary>
+            <param name="serializer">The <see cref="T:System.Xml.Serialization.XmlSerializer"/>.</param>
+            <param name="xmlWriter">The <see cref="T:System.Xml.XmlWriter"/> used to write the XML document.</param>
+            <param name="os">The objects to serialize.</param>
+            <exception cref="T:System.InvalidOperationException">
+            An error occurred during serialization. The original exception is available using
+            the <see cref="P:System.Exception.InnerException"/> property.
+            </exception>
+        </member>
+    </members>
+</doc>

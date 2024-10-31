@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\C#_3sem_laba15\bin\Debug\net8.0\C#_3sem_laba15.exe
+C:\Users\user\source\repos\C#_3sem_laba15\bin\Debug\net8.0\C#_3sem_laba15.deps.json
+C:\Users\user\source\repos\C#_3sem_laba15\bin\Debug\net8.0\C#_3sem_laba15.runtimeconfig.json
+C:\Users\user\source\repos\C#_3sem_laba15\bin\Debug\net8.0\C#_3sem_laba15.dll
+C:\Users\user\source\repos\C#_3sem_laba15\bin\Debug\net8.0\C#_3sem_laba15.pdb
+C:\Users\user\source\repos\C#_3sem_laba15\obj\Debug\net8.0\C#_3sem_laba15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\C#_3sem_laba15\obj\Debug\net8.0\C#_3sem_laba15.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\C#_3sem_laba15\obj\Debug\net8.0\C#_3sem_laba15.AssemblyInfo.cs
+C:\Users\user\source\repos\C#_3sem_laba15\obj\Debug\net8.0\C#_3sem_laba15.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\C#_3sem_laba15\obj\Debug\net8.0\C#_3sem_laba15.dll
+C:\Users\user\source\repos\C#_3sem_laba15\obj\Debug\net8.0\refint\C#_3sem_laba15.dll
+C:\Users\user\source\repos\C#_3sem_laba15\obj\Debug\net8.0\C#_3sem_laba15.pdb
+C:\Users\user\source\repos\C#_3sem_laba15\obj\Debug\net8.0\C#_3sem_laba15.genruntimeconfig.cache
+C:\Users\user\source\repos\C#_3sem_laba15\obj\Debug\net8.0\ref\C#_3sem_laba15.dll

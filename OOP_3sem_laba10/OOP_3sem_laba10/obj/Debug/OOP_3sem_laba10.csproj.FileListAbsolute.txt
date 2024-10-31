@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\OOP_3sem_laba10\OOP_3sem_laba10\bin\Debug\OOP_3sem_laba10.exe.config
+C:\Users\user\source\repos\OOP_3sem_laba10\OOP_3sem_laba10\bin\Debug\OOP_3sem_laba10.exe
+C:\Users\user\source\repos\OOP_3sem_laba10\OOP_3sem_laba10\bin\Debug\OOP_3sem_laba10.pdb
+C:\Users\user\source\repos\OOP_3sem_laba10\OOP_3sem_laba10\obj\Debug\OOP_3sem_laba10.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\OOP_3sem_laba10\OOP_3sem_laba10\obj\Debug\OOP_3sem_laba10.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\OOP_3sem_laba10\OOP_3sem_laba10\obj\Debug\OOP_3sem_laba10.exe
+C:\Users\user\source\repos\OOP_3sem_laba10\OOP_3sem_laba10\obj\Debug\OOP_3sem_laba10.pdb
